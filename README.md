@@ -1,2 +1,2 @@
 # it-1
-practice
+practice for it devops
